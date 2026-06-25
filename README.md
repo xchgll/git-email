@@ -5,7 +5,7 @@
 - **`Git-Email` is a tool to extract emails and other info from repositry commits**
 - **you can search in all repos or specific repo**
 
-## Search in specific repostiry
+## Search in specific repository
 
 ```
 > python git-email.py -u torvalds -r linux -v 1
@@ -114,7 +114,7 @@ URL:       https://github.com/torvalds/linux/commit/fe9f4ee6c61a1410afd73bf011de
 ...........
 ```
 
-## Search in all repositries
+## Search in all repositories
 
 ```
 > python git-email.py -u torvalds              
