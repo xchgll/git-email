@@ -246,5 +246,5 @@ Updated: 2026-06-24T21:27:25Z
 
 ```
 wget https://github.com/xchgll/git-email/raw/refs/heads/master/git-email.py
-python git-emai.py -h
+python git-email.py -h
 ```
